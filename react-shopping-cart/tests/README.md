@@ -1,4 +1,3 @@
-
 # IA para Programadores | 7 AI para frontend software testing
 
 El paquete de tests creados integra pruebas end-to-end y visuales sobre la aplicación `react-shopping-cart` de Jefferson Ribeiro, utilizando herramientas de IA como Testim, Playwright y Applitools.
